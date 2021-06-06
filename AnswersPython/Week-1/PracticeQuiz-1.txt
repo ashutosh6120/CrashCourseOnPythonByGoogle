@@ -1,0 +1,38 @@
+Practice Quiz: Introduction To Programming
+
+1]   What’s a computer program?
+  a)  A set of languages available in the computer
+  b)  A process for getting duplicate values removed from a list
+  c)  A list of instructions that the computer has to follow to reach a goal
+  d)  A file that gets copied to all machines in the network
+Answer:  A list of instructions that the computer has to follow to reach a goal
+
+
+2]  What’s the syntax of a language?
+ a) The rules of how to express things in that language
+ b) The subject of a sentence
+ c) The difference between one language and another
+ d) The meaning of the words
+ Answer: The rules of how to express things in that language
+
+
+3]  What’s the difference between a program and a script?
+ a)   There’s not much difference, but scripts are usually simpler and shorter.
+ b)   Scripts are only written in Python.
+ c)   Scripts can only be used for simple tasks.
+ d)   Programs are written by software engineers; scripts are written by system administrators.
+Answer: There’s not much difference, but scripts are usually simpler and shorter.
+
+
+4]  Which of these scenarios are good candidates for automation? Select all that apply.
+Answer:  Generating a sales report, split by region and product type
+         Copying a file to all computers in a company
+         Sending personalized emails to subscribers of your website
+
+
+5]  What are semantics when applied to programming code and pseudocode?
+ a)   The rules for how a programming instruction is written
+ b)   The difference in number values in one instance of a script compared to another
+ c)   The effect the programming instructions have
+ d)   The end result of a programming instruction
+Answer:  The effect the programming instructions have
